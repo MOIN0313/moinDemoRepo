@@ -1,0 +1,9 @@
+{
+	"name": "ADFmoinDemo",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "bbe3c382-4699-4e42-b65c-4dc644ddf578",
+		"tenantId": "82494b1a-ac56-4b9c-86c9-8b95bec3f1b2"
+	}
+}
